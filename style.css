@@ -19,3 +19,37 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    
+    background-image: linear-gradient(to right,rgb(247, 75, 7),rgb(241, 94, 68));
+}
+.cat2{
+    background-image: linear-gradient(to right,rgb(219, 24, 213),rgb(238, 127, 234));
+}
+.cat3{
+    background-image: linear-gradient(to right,rgb(23, 23, 201),rgba(67, 67, 206, 0.938));
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+}
